@@ -1,0 +1,15 @@
+1970-01-01 08:02:38,276 serial_wrap.py, line 116, ERROR:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+1970-01-01 08:04:35,663 serial_wrap.py, line 116, ERROR:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+1970-01-01 08:19:14,644 serial_wrap.py, line 116, ERROR:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+1970-01-01 08:37:49,077 serial_wrap.py, line 116, ERROR:未找到串口,查看是否插入了串口,或者查看下位机是否开机
+1970-01-01 09:05:51,584 serial_wrap.py, line 324, ERROR:get_anwser timeout 
+1970-01-01 09:05:51,621 serial_wrap.py, line 141, ERROR:未找到支持的设备
+1970-01-01 09:05:51,621 serial_wrap.py, line 65, CRITICAL:未接控制器或者控制器没有开机,或者程序运行错误!
+1970-01-01 08:02:26,259 serial_wrap.py, line 324, ERROR:get_anwser timeout 
+1970-01-01 08:04:05,689 serial_wrap.py, line 324, ERROR:get_anwser timeout 
+1970-01-01 08:08:51,801 serial_wrap.py, line 324, ERROR:get_anwser timeout 
+1970-01-01 08:00:36,050 serial_wrap.py, line 324, ERROR:get_anwser timeout 
+1970-01-01 08:00:37,074 serial_wrap.py, line 324, ERROR:get_anwser timeout 
+1970-01-01 08:00:36,160 serial_wrap.py, line 324, ERROR:get_anwser timeout 
+1970-01-01 08:00:35,098 serial_wrap.py, line 324, ERROR:get_anwser timeout 
+1970-01-01 08:00:40,967 serial_wrap.py, line 324, ERROR:get_anwser timeout 

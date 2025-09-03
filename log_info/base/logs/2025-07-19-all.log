@@ -1,0 +1,1201 @@
+2025-07-19 14:53:54,103 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 14:53:54,193 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 14:53:54,320 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 14:53:55,108 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 14:53:55,108 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 14:53:55,109 car_wrap.py, line 146, INFO:my car init ok 0.011085271835327148
+2025-07-19 14:53:58,093 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 14:54:04,827 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 14:54:04,833 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 14:54:06,794 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 14:54:06,799 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 14:54:11,376 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 14:54:11,382 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 14:54:13,964 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 14:54:14,778 car_wrap.py, line 1054, INFO:11
+2025-07-19 14:54:14,779 car_wrap.py, line 1056, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 14:55:20,415 car_wrap.py, line 1141, INFO:all_task
+2025-07-19 14:55:21,235 car_wrap.py, line 1141, INFO:task_ingredients_1
+2025-07-19 14:55:21,744 car_wrap.py, line 1141, INFO:task_help
+2025-07-19 14:55:22,305 car_wrap.py, line 1141, INFO:task_food
+2025-07-19 14:55:23,024 car_wrap.py, line 1141, INFO:task_fun2
+2025-07-19 14:55:23,742 car_wrap.py, line 1141, INFO:task_answer
+2025-07-19 14:55:55,823 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 14:55:55,911 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 14:55:56,027 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 14:55:56,789 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 14:55:56,790 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 14:55:56,791 car_wrap.py, line 146, INFO:my car init ok 0.011118650436401367
+2025-07-19 14:55:59,785 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 14:56:06,240 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 14:56:06,246 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 14:56:08,013 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 14:56:08,018 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 14:56:12,609 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 14:56:12,614 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 14:56:14,868 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 14:56:15,681 car_wrap.py, line 1054, INFO:11
+2025-07-19 14:56:15,682 car_wrap.py, line 1056, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 14:57:11,896 car_wrap.py, line 1141, INFO:all_task
+2025-07-19 14:57:12,509 car_wrap.py, line 1141, INFO:task_ingredients_1
+2025-07-19 14:57:13,124 car_wrap.py, line 1141, INFO:task_help
+2025-07-19 14:57:13,684 car_wrap.py, line 1141, INFO:task_food
+2025-07-19 14:57:14,247 car_wrap.py, line 1141, INFO:task_fun2
+2025-07-19 14:57:15,650 car_wrap.py, line 1141, INFO:task_answer
+2025-07-19 14:57:28,020 car_wrap.py, line 513, INFO:time out
+2025-07-19 14:59:15,696 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 14:59:15,784 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 14:59:15,912 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 15:01:18,588 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 15:01:18,678 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 15:01:18,787 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 15:01:19,456 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 15:01:19,457 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 15:01:19,458 car_wrap.py, line 146, INFO:my car init ok 0.011335611343383789
+2025-07-19 15:01:22,442 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 15:01:27,931 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 15:01:27,937 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 15:01:29,716 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 15:01:29,721 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 15:01:33,914 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 15:01:33,920 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 15:01:35,978 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 15:01:36,793 car_wrap.py, line 1054, INFO:11
+2025-07-19 15:01:36,794 car_wrap.py, line 1056, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 15:01:45,894 car_wrap.py, line 1141, INFO:all_task
+2025-07-19 15:01:46,505 car_wrap.py, line 1141, INFO:task_ingredients_1
+2025-07-19 15:01:46,961 car_wrap.py, line 1141, INFO:task_help
+2025-07-19 15:01:47,363 car_wrap.py, line 1141, INFO:task_food
+2025-07-19 15:01:47,873 car_wrap.py, line 1141, INFO:task_fun2
+2025-07-19 15:01:48,432 car_wrap.py, line 1141, INFO:task_answer
+2025-07-19 15:01:58,054 car_wrap.py, line 513, INFO:time out
+2025-07-19 15:03:15,386 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 15:03:15,475 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 15:03:15,581 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 15:05:15,729 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 15:05:15,818 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 15:05:15,926 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 15:05:16,527 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 15:05:16,527 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 15:05:16,528 car_wrap.py, line 146, INFO:my car init ok 0.011458396911621094
+2025-07-19 15:05:19,526 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 15:05:24,452 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 15:05:24,458 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 15:05:26,205 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 15:05:26,210 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 15:05:30,423 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 15:05:30,428 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 15:05:32,402 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 15:05:33,216 car_wrap.py, line 1058, INFO:11
+2025-07-19 15:05:33,217 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 15:05:51,135 car_wrap.py, line 1145, INFO:all_task
+2025-07-19 15:05:51,748 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 15:05:53,266 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 15:06:00,347 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 15:06:01,170 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 15:06:03,463 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 15:06:13,137 car_wrap.py, line 513, INFO:time out
+2025-07-19 15:07:02,139 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 15:07:02,228 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 15:07:02,330 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 20:46:28,910 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 20:46:28,999 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 20:46:29,108 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 20:46:29,681 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 20:46:29,682 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 20:46:29,683 car_wrap.py, line 146, INFO:my car init ok 0.011569976806640625
+2025-07-19 20:46:32,673 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 20:46:37,242 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 20:46:37,248 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 20:46:39,010 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 20:46:39,015 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 20:46:43,015 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 20:46:43,020 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 20:46:44,748 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 20:46:45,567 car_wrap.py, line 1057, INFO:11
+2025-07-19 20:46:45,568 car_wrap.py, line 1059, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 20:46:48,437 car_wrap.py, line 1144, INFO:final_task
+2025-07-19 20:46:48,999 car_wrap.py, line 1144, INFO:task_ingredients_1
+2025-07-19 20:46:49,611 car_wrap.py, line 1144, INFO:task_help
+2025-07-19 20:46:50,119 car_wrap.py, line 1144, INFO:task_food
+2025-07-19 20:46:50,945 car_wrap.py, line 1144, INFO:task_fun2
+2025-07-19 20:46:52,086 car_wrap.py, line 1144, INFO:task_answer
+2025-07-19 20:48:22,328 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 20:48:22,417 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 20:48:22,521 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 20:48:27,471 arm_base.py, line 265, INFO:change side to 1
+2025-07-19 21:25:05,052 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:25:05,496 serial_wrap.py, line 324, ERROR:get_anwser timeout 
+2025-07-19 21:25:05,517 serial_wrap.py, line 267, INFO:is mc602
+2025-07-19 21:25:05,518 serial_wrap.py, line 268, INFO:load program
+2025-07-19 21:25:07,275 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:25:07,412 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:25:08,106 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:25:08,107 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:25:08,108 car_wrap.py, line 146, INFO:my car init ok 0.011461496353149414
+2025-07-19 21:25:11,093 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:25:17,286 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:25:17,292 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:25:19,115 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:25:19,121 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:25:23,257 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:25:23,262 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:25:25,031 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:25:25,844 car_wrap.py, line 1057, INFO:11
+2025-07-19 21:25:25,845 car_wrap.py, line 1059, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:25:32,088 car_wrap.py, line 1144, INFO:final_task
+2025-07-19 21:25:32,701 car_wrap.py, line 1144, INFO:task_ingredients_1
+2025-07-19 21:25:33,363 car_wrap.py, line 1144, INFO:task_help
+2025-07-19 21:25:33,974 car_wrap.py, line 1144, INFO:task_food
+2025-07-19 21:25:34,586 car_wrap.py, line 1144, INFO:task_fun2
+2025-07-19 21:25:35,248 car_wrap.py, line 1144, INFO:task_answer
+2025-07-19 21:27:29,610 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:27:29,700 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:27:29,807 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:27:34,787 arm_base.py, line 265, INFO:change side to 1
+2025-07-19 21:29:21,153 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:29:21,247 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:29:21,352 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:29:21,937 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:29:21,937 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:29:21,938 car_wrap.py, line 146, INFO:my car init ok 0.011132240295410156
+2025-07-19 21:29:24,941 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:29:29,439 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:29:29,444 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:29:31,214 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:29:31,219 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:29:35,236 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:29:35,241 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:29:37,041 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:29:37,855 car_wrap.py, line 1057, INFO:11
+2025-07-19 21:29:37,856 car_wrap.py, line 1059, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:29:40,937 car_wrap.py, line 1144, INFO:final_task
+2025-07-19 21:29:46,451 car_wrap.py, line 1144, INFO:task_ingredients_1
+2025-07-19 21:29:47,010 car_wrap.py, line 1144, INFO:task_help
+2025-07-19 21:29:47,466 car_wrap.py, line 1144, INFO:task_food
+2025-07-19 21:29:48,079 car_wrap.py, line 1144, INFO:task_fun2
+2025-07-19 21:29:49,373 car_wrap.py, line 1144, INFO:task_answer
+2025-07-19 21:30:23,539 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:30:23,629 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:30:23,731 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:30:28,671 arm_base.py, line 265, INFO:change side to 1
+2025-07-19 21:31:12,062 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:31:12,150 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:31:12,254 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:31:12,845 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:31:12,845 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:31:12,847 car_wrap.py, line 146, INFO:my car init ok 0.01167917251586914
+2025-07-19 21:31:15,830 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:31:20,252 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:31:20,258 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:31:22,013 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:31:22,018 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:31:26,060 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:31:26,065 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:31:27,796 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:31:28,610 car_wrap.py, line 1057, INFO:11
+2025-07-19 21:31:28,611 car_wrap.py, line 1059, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:31:30,531 car_wrap.py, line 1144, INFO:final_task
+2025-07-19 21:31:31,042 car_wrap.py, line 1144, INFO:task_ingredients_1
+2025-07-19 21:31:31,550 car_wrap.py, line 1144, INFO:task_help
+2025-07-19 21:31:32,110 car_wrap.py, line 1144, INFO:task_food
+2025-07-19 21:31:32,670 car_wrap.py, line 1144, INFO:task_fun2
+2025-07-19 21:31:33,809 car_wrap.py, line 1144, INFO:task_answer
+2025-07-19 21:31:34,480 car_wrap.py, line 1144, INFO:task_ingredients
+2025-07-19 21:31:35,570 car_wrap.py, line 1144, INFO:task_answer
+2025-07-19 21:33:07,892 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:33:07,982 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:33:08,089 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:33:13,041 arm_base.py, line 265, INFO:change side to 1
+2025-07-19 21:33:29,746 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:33:29,835 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:33:29,939 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:33:30,527 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:33:30,528 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:33:30,529 car_wrap.py, line 146, INFO:my car init ok 0.01135110855102539
+2025-07-19 21:33:33,520 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:33:38,037 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:33:38,043 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:33:39,789 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:33:39,795 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:33:43,781 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:33:43,786 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:33:45,489 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:33:46,301 car_wrap.py, line 1057, INFO:11
+2025-07-19 21:33:46,302 car_wrap.py, line 1059, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:34:36,503 car_wrap.py, line 1144, INFO:final_task
+2025-07-19 21:34:37,011 car_wrap.py, line 1144, INFO:task_ingredients_1
+2025-07-19 21:34:37,519 car_wrap.py, line 1144, INFO:task_help
+2025-07-19 21:34:38,081 car_wrap.py, line 1144, INFO:task_food
+2025-07-19 21:34:38,590 car_wrap.py, line 1144, INFO:task_fun2
+2025-07-19 21:34:39,150 car_wrap.py, line 1144, INFO:task_answer
+2025-07-19 21:37:24,521 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:37:24,610 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:37:24,713 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:37:29,719 arm_base.py, line 265, INFO:change side to 1
+2025-07-19 21:40:15,574 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:40:15,663 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:40:15,768 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:40:16,346 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:40:16,347 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:40:16,348 car_wrap.py, line 146, INFO:my car init ok 0.011034250259399414
+2025-07-19 21:40:19,327 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:40:23,788 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:40:23,794 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:40:25,552 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:40:25,557 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:40:29,755 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:40:29,760 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:40:31,529 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:40:32,343 car_wrap.py, line 1057, INFO:11
+2025-07-19 21:40:32,344 car_wrap.py, line 1059, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:40:35,848 car_wrap.py, line 1144, INFO:final_task
+2025-07-19 21:40:36,411 car_wrap.py, line 1144, INFO:task_ingredients_1
+2025-07-19 21:40:37,496 car_wrap.py, line 1144, INFO:task_help
+2025-07-19 21:40:38,163 car_wrap.py, line 1144, INFO:task_food
+2025-07-19 21:40:39,301 car_wrap.py, line 1144, INFO:task_fun2
+2025-07-19 21:40:40,286 car_wrap.py, line 1144, INFO:task_answer
+2025-07-19 21:45:39,224 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:45:39,315 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:45:39,417 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:45:40,016 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:45:40,016 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:45:40,017 car_wrap.py, line 146, INFO:my car init ok 0.011565446853637695
+2025-07-19 21:45:43,000 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:45:47,494 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:45:47,500 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:45:49,254 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:45:49,260 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:45:53,269 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:45:53,274 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:45:55,017 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:45:55,830 car_wrap.py, line 1058, INFO:11
+2025-07-19 21:45:55,831 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:46:03,318 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 21:46:04,034 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 21:46:05,071 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 21:46:06,104 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 21:46:06,770 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 21:46:08,283 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 21:48:35,757 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:48:35,846 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:48:35,950 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:48:36,531 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:48:36,531 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:48:36,532 car_wrap.py, line 146, INFO:my car init ok 0.011083364486694336
+2025-07-19 21:48:39,512 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:48:44,022 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:48:44,028 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:48:45,785 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:48:45,790 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:48:49,831 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:48:49,836 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:48:51,571 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:48:52,388 car_wrap.py, line 1058, INFO:11
+2025-07-19 21:48:52,389 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:48:54,368 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 21:48:55,088 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 21:48:55,807 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 21:48:56,525 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 21:48:57,243 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 21:48:58,067 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 21:48:58,945 car_wrap.py, line 1145, INFO:task_ingredients
+2025-07-19 21:49:00,608 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 21:49:01,954 car_wrap.py, line 1145, INFO:task_ingredients
+2025-07-19 21:49:05,404 car_wrap.py, line 1145, INFO:send_fun
+2025-07-19 21:49:08,909 car_wrap.py, line 1145, INFO:camp_fun
+2025-07-19 21:49:09,521 car_wrap.py, line 1145, INFO:send_fun
+2025-07-19 21:49:10,136 car_wrap.py, line 1145, INFO:task_ingredients
+2025-07-19 21:49:10,752 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 21:50:40,237 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:50:40,327 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:50:40,431 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:50:41,008 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:50:41,008 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:50:41,009 car_wrap.py, line 146, INFO:my car init ok 0.011091947555541992
+2025-07-19 21:50:43,993 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:50:48,467 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:50:48,473 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:50:50,219 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:50:50,224 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:50:54,224 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:50:54,229 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:50:55,939 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:50:56,752 car_wrap.py, line 1058, INFO:11
+2025-07-19 21:50:56,753 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:51:31,452 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:51:31,545 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:51:31,650 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:51:32,222 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:51:32,223 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:51:32,224 car_wrap.py, line 146, INFO:my car init ok 0.011250019073486328
+2025-07-19 21:51:35,213 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:51:39,709 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:51:39,715 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:51:41,477 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:51:41,482 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:51:45,495 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:51:45,500 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:51:47,234 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:51:48,051 car_wrap.py, line 1058, INFO:11
+2025-07-19 21:51:48,052 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:51:49,085 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 21:51:49,700 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 21:51:50,206 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 21:51:50,873 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 21:51:51,434 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 21:51:52,363 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 21:58:19,382 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 21:58:19,471 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 21:58:19,580 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 21:58:20,157 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 21:58:20,158 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 21:58:20,159 car_wrap.py, line 146, INFO:my car init ok 0.011069774627685547
+2025-07-19 21:58:23,136 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 21:58:27,609 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 21:58:27,616 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 21:58:29,372 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 21:58:29,378 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 21:58:33,458 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 21:58:33,463 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 21:58:35,237 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 21:58:36,053 car_wrap.py, line 1058, INFO:11
+2025-07-19 21:58:36,054 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 21:58:39,704 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 21:58:40,160 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 21:58:40,879 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 21:58:41,283 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 21:58:42,003 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 21:58:42,773 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:01:09,812 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:01:09,902 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:01:09,993 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:01:10,573 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:01:10,574 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:01:10,575 car_wrap.py, line 146, INFO:my car init ok 0.011365652084350586
+2025-07-19 22:01:13,561 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:01:18,058 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:01:18,071 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:01:19,817 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:01:19,822 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:01:23,818 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:01:23,823 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:01:25,565 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:01:26,379 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:01:26,380 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:01:46,222 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:01:46,678 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:01:47,503 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:01:47,854 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:01:48,259 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:01:48,663 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:03:00,525 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:03:00,615 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:03:00,724 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:03:05,768 arm_base.py, line 265, INFO:change side to 1
+2025-07-19 22:06:32,036 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:06:32,129 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:06:32,233 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:06:32,809 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:06:32,810 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:06:32,811 car_wrap.py, line 146, INFO:my car init ok 0.011069297790527344
+2025-07-19 22:06:35,797 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:06:40,306 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:06:40,311 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:06:42,115 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:06:42,121 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:06:46,168 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:06:46,173 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:06:47,934 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:06:48,748 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:06:48,749 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:07:04,576 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:07:05,344 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:07:06,222 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:07:07,253 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:07:08,077 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:07:08,744 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:07:33,132 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:08:21,087 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:08:21,177 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:08:21,281 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:08:21,868 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:08:21,869 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:08:21,870 car_wrap.py, line 146, INFO:my car init ok 0.01110386848449707
+2025-07-19 22:08:24,870 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:08:29,395 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:08:29,401 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:08:31,189 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:08:31,194 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:08:35,208 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:08:35,213 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:08:36,961 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:08:37,775 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:08:37,776 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:08:42,219 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:08:53,701 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:08:54,208 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:08:54,821 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:08:55,379 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:08:56,306 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:09:21,072 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:09:21,164 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:09:21,273 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:09:21,847 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:09:21,847 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:09:21,849 car_wrap.py, line 146, INFO:my car init ok 0.01126408576965332
+2025-07-19 22:09:24,835 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:09:29,356 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:09:29,362 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:09:31,133 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:09:31,138 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:09:35,226 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:09:35,231 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:09:37,064 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:09:37,879 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:09:37,880 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:09:51,467 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:09:52,030 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:09:52,539 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:09:53,101 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:09:53,664 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:09:54,490 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:10:18,130 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:16:40,428 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:16:40,517 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:16:40,620 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:16:41,191 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:16:41,191 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:16:41,192 car_wrap.py, line 146, INFO:my car init ok 0.011187553405761719
+2025-07-19 22:16:44,180 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:16:48,724 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:16:48,730 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:16:50,495 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:16:50,500 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:16:54,510 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:16:54,515 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:16:56,248 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:16:57,062 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:16:57,063 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:17:43,432 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:17:44,044 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:17:44,866 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:17:45,634 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:17:46,457 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:17:47,439 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:18:31,322 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:18:31,411 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:18:31,519 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:18:32,095 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:18:32,096 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:18:32,097 car_wrap.py, line 146, INFO:my car init ok 0.011151552200317383
+2025-07-19 22:18:35,076 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:18:39,557 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:18:39,563 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:18:41,323 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:18:41,329 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:18:45,331 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:18:45,336 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:18:47,116 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:18:47,930 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:18:47,931 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:18:52,526 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:18:53,191 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:18:53,750 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:18:54,414 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:18:55,079 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:18:55,952 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:19:19,781 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:20:25,112 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:20:25,201 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:20:25,308 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:20:34,140 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:20:34,229 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:20:34,333 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:20:42,651 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:20:42,740 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:20:42,844 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:21:17,030 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:21:17,119 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:21:17,222 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:21:24,433 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:21:24,524 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:21:24,634 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:21:27,011 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:21:27,100 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:21:27,204 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:21:28,963 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:21:29,051 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:21:29,154 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:21:36,964 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:21:37,054 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:21:37,156 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:21:39,099 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:21:39,191 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:21:39,294 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:22:04,337 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:22:04,428 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:22:04,532 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:22:41,029 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:22:41,118 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:22:41,221 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:22:48,796 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:22:48,886 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:22:48,992 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:23:04,425 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:23:04,514 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:23:04,624 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:24:38,073 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:24:38,162 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:24:38,260 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:24:47,762 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:24:47,852 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:24:47,959 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:24:48,540 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:24:48,541 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:24:48,542 car_wrap.py, line 146, INFO:my car init ok 0.011316299438476562
+2025-07-19 22:24:51,458 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:24:51,547 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:24:51,653 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:24:58,348 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:24:58,436 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:24:58,536 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:25:10,452 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:25:10,544 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:25:10,645 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:25:19,789 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:25:19,878 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:25:19,979 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:25:26,709 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:25:26,799 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:25:26,900 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:25:40,558 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:25:40,651 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:25:40,754 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:26:07,490 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:26:07,580 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:26:07,687 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:26:24,782 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:26:24,873 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:26:24,974 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:26:34,115 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:26:34,204 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:26:34,310 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:26:41,685 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:26:41,773 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:26:41,876 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:28:57,021 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:28:57,111 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:28:57,241 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:28:58,049 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:28:58,050 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:28:58,051 car_wrap.py, line 146, INFO:my car init ok 0.011946916580200195
+2025-07-19 22:29:01,045 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:29:07,275 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:29:07,281 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:29:09,080 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:29:09,085 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:29:13,213 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:29:13,218 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:29:15,024 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:29:15,837 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:29:15,838 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:29:24,027 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:29:24,591 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:29:25,150 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:29:25,660 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:29:26,221 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:29:27,203 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:29:28,505 car_wrap.py, line 1145, INFO:task_ingredients
+2025-07-19 22:29:29,703 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:30:36,037 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:30:36,127 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:30:36,234 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:30:47,743 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:30:47,832 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:30:47,935 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:31:36,038 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:31:36,127 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:31:36,232 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:31:36,802 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:31:36,803 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:31:36,804 car_wrap.py, line 146, INFO:my car init ok 0.011023521423339844
+2025-07-19 22:31:39,791 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:31:44,292 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:31:44,299 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:31:46,120 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:31:46,126 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:31:50,161 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:31:50,166 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:31:51,886 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:31:52,700 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:31:52,701 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:32:06,506 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:32:07,017 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:32:07,631 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:32:08,244 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:32:08,911 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:32:09,578 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:33:36,134 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:33:36,224 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:33:36,326 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:33:36,904 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:33:36,905 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:33:36,906 car_wrap.py, line 146, INFO:my car init ok 0.011069297790527344
+2025-07-19 22:34:44,339 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:34:48,878 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:34:48,884 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:34:50,718 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:34:50,723 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:34:54,766 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:34:54,771 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:34:56,527 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:34:57,340 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:34:57,341 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:34:58,004 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:34:58,568 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:34:59,076 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:34:59,584 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:35:00,093 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:35:01,289 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:35:26,006 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:36:11,601 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:36:11,690 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:36:11,798 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:36:15,072 arm_base.py, line 404, WARNING:timeout
+2025-07-19 22:36:26,904 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:36:26,994 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:36:27,096 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:39:55,514 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:39:55,606 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:39:55,708 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:39:56,316 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:39:56,317 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:39:56,318 car_wrap.py, line 146, INFO:my car init ok 0.011704206466674805
+2025-07-19 22:39:59,272 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:40:05,270 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:40:05,277 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:40:07,153 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:40:07,159 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:40:11,385 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:40:11,391 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:40:13,375 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:40:14,189 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:40:14,190 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:40:25,875 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:40:26,490 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:40:27,641 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:40:28,366 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:40:28,929 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:40:30,122 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:40:37,170 car_wrap.py, line 513, INFO:time out
+2025-07-19 22:40:57,862 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:41:43,024 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:41:43,114 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:41:43,225 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:42:47,934 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:42:48,023 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:42:48,128 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:42:48,747 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:42:48,747 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:42:48,748 car_wrap.py, line 146, INFO:my car init ok 0.01164865493774414
+2025-07-19 22:42:51,742 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:42:56,387 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:42:56,393 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:42:58,148 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:42:58,153 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:43:02,164 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:43:02,169 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:43:03,927 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:43:04,741 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:43:04,742 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:43:18,261 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:43:18,821 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:43:19,383 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:43:20,052 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:43:21,987 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:43:23,232 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:43:33,395 car_wrap.py, line 513, INFO:time out
+2025-07-19 22:43:53,389 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:44:43,435 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:44:43,523 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:44:43,627 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:45:08,798 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:45:08,886 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:45:08,989 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:45:09,569 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:45:09,569 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:45:09,571 car_wrap.py, line 146, INFO:my car init ok 0.01149749755859375
+2025-07-19 22:45:12,552 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:45:17,173 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:45:17,179 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:45:18,955 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:45:18,960 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:45:23,043 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:45:23,048 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:45:24,846 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:45:25,659 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:45:25,660 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:45:28,948 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:45:29,559 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:45:30,226 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:45:30,892 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:45:31,508 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:45:32,436 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:45:38,955 car_wrap.py, line 513, INFO:time out
+2025-07-19 22:45:57,891 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:48:41,709 car_wrap.py, line 513, INFO:time out
+2025-07-19 22:49:00,931 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:51:24,147 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:51:24,235 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:51:24,340 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:51:24,947 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:51:24,948 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:51:24,949 car_wrap.py, line 146, INFO:my car init ok 0.011762142181396484
+2025-07-19 22:51:27,929 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:51:32,435 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:51:32,441 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:51:34,241 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:51:34,246 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:51:38,266 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:51:38,271 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:51:40,077 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:51:40,891 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:51:40,892 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:52:02,326 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:52:04,249 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:52:06,487 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:52:07,048 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:52:07,661 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:52:08,431 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:52:15,689 car_wrap.py, line 513, INFO:time out
+2025-07-19 22:52:35,410 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:56:13,280 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:56:13,374 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:56:13,480 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:56:14,059 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:56:14,060 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:56:14,061 car_wrap.py, line 146, INFO:my car init ok 0.011559486389160156
+2025-07-19 22:56:17,042 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:56:21,536 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:56:21,542 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:56:23,328 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:56:23,333 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:56:27,442 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:56:27,447 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:56:29,251 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:56:30,066 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:56:30,067 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:56:34,662 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:56:35,489 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:56:36,105 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:56:36,614 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:56:37,281 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:56:38,207 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:56:45,145 car_wrap.py, line 513, INFO:time out
+2025-07-19 22:57:04,410 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 22:59:20,500 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 22:59:20,591 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 22:59:20,720 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 22:59:21,442 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 22:59:21,442 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 22:59:21,443 car_wrap.py, line 146, INFO:my car init ok 0.011088371276855469
+2025-07-19 22:59:24,435 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 22:59:29,340 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 22:59:29,346 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 22:59:31,142 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 22:59:31,147 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 22:59:35,347 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 22:59:35,352 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 22:59:37,180 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 22:59:37,995 car_wrap.py, line 1058, INFO:11
+2025-07-19 22:59:37,996 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 22:59:46,312 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 22:59:49,257 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 22:59:49,715 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 22:59:51,283 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 22:59:51,897 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 22:59:52,984 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:00:07,587 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:00:27,912 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:01:35,769 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:01:35,859 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:01:35,966 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:01:36,564 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:01:36,564 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:01:36,565 car_wrap.py, line 146, INFO:my car init ok 0.011096000671386719
+2025-07-19 23:01:39,549 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:01:44,064 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:01:44,070 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:01:45,842 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:01:45,847 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:01:49,944 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:01:49,949 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:01:51,771 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:01:52,586 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:01:52,587 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:01:57,183 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:01:58,377 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:01:59,097 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:01:59,764 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:02:00,430 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:02:01,097 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:02:09,139 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:03:30,092 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:03:30,180 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:03:30,279 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:03:30,858 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:03:30,858 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:03:30,859 car_wrap.py, line 146, INFO:my car init ok 0.011083841323852539
+2025-07-19 23:03:33,845 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:03:38,460 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:03:38,466 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:03:40,244 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:03:40,249 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:03:44,406 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:03:44,412 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:03:46,248 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:03:47,063 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:03:47,064 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:04:19,118 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:04:19,785 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:04:20,398 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:04:20,906 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:04:21,520 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:04:22,394 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:04:29,496 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:04:49,908 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:05:28,943 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:05:48,721 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:08:14,919 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:08:15,008 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:08:15,113 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:08:15,695 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:08:15,695 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:08:15,696 car_wrap.py, line 146, INFO:my car init ok 0.01104116439819336
+2025-07-19 23:08:18,689 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:08:23,299 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:08:23,305 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:08:25,110 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:08:25,116 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:08:29,136 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:08:29,141 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:08:30,939 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:08:31,754 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:08:31,755 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:08:36,104 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:08:36,715 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:08:37,387 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:08:37,951 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:08:38,511 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:08:39,387 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:08:45,967 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:09:06,504 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:12:50,542 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:13:10,194 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:16:50,056 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:16:50,147 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:16:50,251 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:16:50,832 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:16:50,833 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:16:50,834 car_wrap.py, line 146, INFO:my car init ok 0.010979890823364258
+2025-07-19 23:16:53,824 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:16:58,401 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:16:58,407 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:17:00,214 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:17:00,219 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:17:04,266 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:17:04,272 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:17:06,101 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:17:06,915 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:17:06,916 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:17:10,639 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:17:11,147 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:17:11,655 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:17:12,112 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:17:13,202 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:17:13,817 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:17:14,432 car_wrap.py, line 1145, INFO:task_ingredients
+2025-07-19 23:17:15,414 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:17:21,508 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:17:41,369 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:17:41,458 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:17:41,562 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:17:42,145 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:17:42,146 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:17:42,147 car_wrap.py, line 146, INFO:my car init ok 0.011008024215698242
+2025-07-19 23:17:45,130 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:17:49,683 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:17:49,689 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:17:51,460 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:17:51,466 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:17:55,499 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:17:55,504 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:17:57,302 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:17:58,116 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:17:58,117 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:18:06,291 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:18:06,958 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:18:07,520 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:18:08,130 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:18:08,692 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:18:09,412 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:18:17,204 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:18:45,486 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:18:45,576 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:18:45,679 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:18:46,257 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:18:46,258 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:18:46,259 car_wrap.py, line 146, INFO:my car init ok 0.011184930801391602
+2025-07-19 23:18:49,252 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:18:53,826 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:18:53,833 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:18:55,661 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:18:55,667 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:18:59,819 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:18:59,825 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:19:01,638 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:19:02,452 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:19:02,453 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:19:14,655 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:19:15,217 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:19:16,356 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:19:16,974 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:19:17,590 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:19:18,363 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:19:26,573 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:20:40,766 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:20:40,855 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:20:40,964 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:20:41,552 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:20:41,552 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:20:41,553 car_wrap.py, line 146, INFO:my car init ok 0.011358022689819336
+2025-07-19 23:20:44,533 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:20:49,203 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:20:49,209 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:20:50,978 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:20:50,983 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:20:55,105 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:20:55,111 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:20:56,941 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:20:57,758 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:20:57,759 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:21:04,772 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:21:05,493 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:21:06,160 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:21:06,667 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:21:07,282 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:21:08,105 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:21:15,774 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:21:35,435 arm_base.py, line 404, WARNING:timeout
+2025-07-19 23:21:38,285 arm_base.py, line 404, WARNING:timeout
+2025-07-19 23:21:38,587 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:22:12,584 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:22:12,672 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:22:12,779 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:22:13,352 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:22:13,353 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:22:13,354 car_wrap.py, line 146, INFO:my car init ok 0.011040449142456055
+2025-07-19 23:22:16,341 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:22:20,851 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:22:20,857 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:22:22,621 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:22:22,626 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:22:26,646 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:22:26,651 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:22:28,446 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:22:29,261 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:22:29,262 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:22:31,234 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:22:31,742 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:22:32,304 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:22:32,968 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:22:36,001 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:22:36,929 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:22:49,010 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:23:07,324 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:29:10,556 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:29:10,645 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:29:10,733 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:29:11,312 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:29:11,313 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:29:11,314 car_wrap.py, line 146, INFO:my car init ok 0.011198043823242188
+2025-07-19 23:29:14,297 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:29:18,795 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:29:18,801 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:29:20,559 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:29:20,565 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:29:24,572 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:29:24,578 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:29:26,401 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:29:27,214 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:29:27,215 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:29:35,859 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:29:36,682 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:29:37,348 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:29:38,065 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:29:38,732 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:29:40,819 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:29:49,725 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:30:09,588 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:34:36,133 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:34:55,014 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:35:16,612 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:35:38,132 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:36:36,904 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:36:36,993 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:36:37,098 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:36:37,683 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:36:37,683 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:36:37,684 car_wrap.py, line 146, INFO:my car init ok 0.01115560531616211
+2025-07-19 23:36:40,670 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:36:45,234 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:36:45,240 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:36:47,001 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:36:47,006 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:36:51,030 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:36:51,035 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:36:52,846 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:36:53,660 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:36:53,661 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:36:55,584 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:36:56,091 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:36:56,968 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:36:57,581 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:36:58,089 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:36:58,649 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:37:05,911 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:37:28,028 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:37:52,764 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:37:52,853 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:37:52,956 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:37:53,538 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:37:53,538 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:37:53,539 car_wrap.py, line 146, INFO:my car init ok 0.011075735092163086
+2025-07-19 23:37:56,530 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:38:01,090 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:38:01,097 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:38:02,873 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:38:02,878 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:38:06,904 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:38:06,909 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:38:08,714 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:38:09,529 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:38:09,530 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:38:14,915 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:38:15,530 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:38:16,089 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:38:16,649 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:38:17,839 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:38:18,555 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:38:25,053 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:38:39,054 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:38:39,144 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:38:39,249 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:38:39,825 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:38:39,826 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:38:39,827 car_wrap.py, line 146, INFO:my car init ok 0.011022567749023438
+2025-07-19 23:38:42,804 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:38:47,301 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:38:47,306 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:38:49,073 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:38:49,078 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:38:53,101 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:38:53,106 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:38:54,960 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:38:55,774 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:38:55,775 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:38:57,902 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:38:58,724 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:38:59,337 car_wrap.py, line 1145, INFO:task_help
+2025-07-19 23:38:59,843 car_wrap.py, line 1145, INFO:task_food
+2025-07-19 23:39:00,402 car_wrap.py, line 1145, INFO:task_fun2
+2025-07-19 23:39:00,964 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:39:09,013 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:39:28,558 car_wrap.py, line 1145, INFO:task_answer
+2025-07-19 23:47:47,753 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:47:47,843 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:47:47,974 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:47:48,764 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:47:48,764 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:47:48,765 car_wrap.py, line 146, INFO:my car init ok 0.01149606704711914
+2025-07-19 23:47:51,775 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:47:58,153 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:47:58,160 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:48:00,015 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:48:00,020 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:48:04,170 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:48:04,175 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:48:05,917 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:48:06,732 car_wrap.py, line 1058, INFO:11
+2025-07-19 23:48:06,733 car_wrap.py, line 1060, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:48:10,397 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:49:44,513 car_wrap.py, line 1145, INFO:final_task
+2025-07-19 23:51:16,058 car_wrap.py, line 1145, INFO:task_ingredients_1
+2025-07-19 23:51:25,104 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:51:31,635 car_wrap.py, line 951, WARNING:yiyan_get_food: 接收到空文本，跳过大模型解析
+2025-07-19 23:54:18,194 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:54:18,283 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:54:18,386 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:54:18,967 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:54:18,968 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:54:18,969 car_wrap.py, line 146, INFO:my car init ok 0.01142430305480957
+2025-07-19 23:54:21,950 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:54:26,396 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:54:26,402 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:54:28,150 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:54:28,155 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:54:32,165 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:54:32,170 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:54:33,906 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:54:34,720 car_wrap.py, line 1059, INFO:11
+2025-07-19 23:54:34,721 car_wrap.py, line 1061, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:54:36,966 car_wrap.py, line 1146, INFO:final_task
+2025-07-19 23:54:37,475 car_wrap.py, line 1146, INFO:task_ingredients_1
+2025-07-19 23:54:37,986 car_wrap.py, line 1146, INFO:task_help
+2025-07-19 23:54:38,921 car_wrap.py, line 1146, INFO:task_ingredients_1
+2025-07-19 23:54:48,296 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:54:54,839 car_wrap.py, line 952, WARNING:yiyan_get_food: 接收到空文本，跳过大模型解析
+2025-07-19 23:58:12,629 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:58:19,066 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:58:19,072 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:58:23,054 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:40:21,466 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:40:21,559 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:40:21,678 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:40:22,480 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:40:22,481 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:40:22,482 car_wrap.py, line 146, INFO:my car init ok 0.011717796325683594
+2025-07-19 23:40:25,469 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:40:32,369 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:40:32,375 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:40:34,200 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:40:34,205 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:40:38,333 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:40:38,338 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:40:40,113 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:40:40,928 car_wrap.py, line 1059, INFO:11
+2025-07-19 23:40:40,929 car_wrap.py, line 1061, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:40:43,318 car_wrap.py, line 1146, INFO:final_task
+2025-07-19 23:40:43,776 car_wrap.py, line 1146, INFO:task_ingredients_1
+2025-07-19 23:40:51,916 car_wrap.py, line 513, INFO:time out
+2025-07-19 23:40:59,197 car_wrap.py, line 952, WARNING:yiyan_get_food: 接收到空文本，跳过大模型解析
+2025-07-19 23:42:35,527 serial_wrap.py, line 123, INFO:try:/dev/ttyCH341USB0 - USB Serial
+2025-07-19 23:42:35,617 serial_wrap.py, line 63, INFO:port is /dev/ttyCH341USB0, controller is mc602, mode USB
+2025-07-19 23:42:35,721 controller_wrap.py, line 31, INFO:dev_name:mc602
+2025-07-19 23:42:36,306 vehicle_base.py, line 302, INFO:MecanumChassis
+2025-07-19 23:42:36,306 vehicle_base.py, line 191, INFO:mecanum init
+2025-07-19 23:42:36,307 car_wrap.py, line 146, INFO:my car init ok 0.011149168014526367
+2025-07-19 23:42:39,288 infer_front.py, line 112, INFO:In local mode, init lane...
+2025-07-19 23:42:43,815 infer_front.py, line 122, INFO:lane init ok in local mode
+2025-07-19 23:42:43,821 infer_front.py, line 112, INFO:In local mode, init front...
+2025-07-19 23:42:45,588 infer_front.py, line 122, INFO:front init ok in local mode
+2025-07-19 23:42:45,593 infer_front.py, line 112, INFO:In local mode, init task...
+2025-07-19 23:42:49,627 infer_front.py, line 122, INFO:task init ok in local mode
+2025-07-19 23:42:49,632 infer_front.py, line 112, INFO:In local mode, init ocr...
+2025-07-19 23:42:51,365 infer_front.py, line 122, INFO:ocr init ok in local mode
+2025-07-19 23:42:52,182 car_wrap.py, line 1059, INFO:11
+2025-07-19 23:42:52,183 car_wrap.py, line 1061, INFO:['hanoi_tower_func', 'bmi_cal', 'camp_fun', 'send_fun', 'task_ingredients', 'task_answer', 'task_fun2', 'task_food', 'task_help', 'task_ingredients_1', 'final_task', 'all_task', 'lane_test', 'lane_whole', 'pose_front', 'safe_reset', 'debug', 'reset_pose']
+2025-07-19 23:43:06,164 car_wrap.py, line 1146, INFO:final_task
+2025-07-19 23:43:06,723 car_wrap.py, line 1146, INFO:task_ingredients_1
+2025-07-19 23:43:15,617 car_wrap.py, line 513, INFO:time out
